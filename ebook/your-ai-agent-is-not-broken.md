@@ -176,7 +176,7 @@ When your employee underperforms, you can blame them. Their attitude, their skil
 
 You.
 
-The good news? This is fixable. The skills that make your AI agents work are the same skills that will transform your human team. Build one system, and both sides improve.
+The good news? This is fixable. The skills that make your AI agents work are the same skills that will fix your human team. Build one system, and both sides improve.
 
 ---
 
@@ -192,7 +192,12 @@ And if reading this made you realize the gap isn't just your AI agents, but how 
 
 I work with business owners who are ready to build the management muscle for both: human teams and AI agents. Not another tool or framework. The leadership that makes people and agents actually perform.
 
-If that sounds like you, let's talk.
+If that sounds like you, two ways to reach me:
+
+- Book a 15-minute call: [calendly.com/failcoach/meet-and-greet](https://calendly.com/failcoach/meet-and-greet)
+- Send me a DM on LinkedIn: [linkedin.com/in/mihamatlievski](https://www.linkedin.com/in/mihamatlievski/)
+
+Some people prefer a call. Some prefer to type first. Either works.
 
 **Miha Matlievski**
 Fail Coach
