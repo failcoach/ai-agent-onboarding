@@ -45,7 +45,7 @@ Want to see what that looks like? We have two worked examples: the [Operations A
 ### What you'll need
 
 - A computer with internet access
-- An [Anthropic account](https://console.anthropic.com) -- this is the company behind Claude. (Different company than OpenAI, which makes ChatGPT. If you've only used ChatGPT before, you'll need to create a separate account here.) Claude Code is a paid tool (plans start at $20/month). The starter kit itself is completely free.
+- A [Claude account](https://claude.ai) -- Claude is Anthropic's AI assistant, the equivalent of ChatGPT from OpenAI. Different company, different account. If you've only used ChatGPT before, you'll need to sign up here separately. Claude Code is included with Claude Pro ($20/month) or higher plans. The starter kit itself is completely free.
 - About 30 minutes
 
 ### Never used Claude Code before?

@@ -5,7 +5,7 @@ This page walks you through everything you need before you can start the intervi
 ## What You'll Need
 
 - A computer with internet access
-- An Anthropic account (this is the company behind Claude). Claude Code is a paid tool. Plans start at $20/month. You can sign up at [console.anthropic.com](https://console.anthropic.com)
+- A Claude account (Claude is Anthropic's AI assistant). Claude Code is included with Claude Pro at $20/month, or with a higher Max plan if you expect heavy use. Sign up at [claude.ai](https://claude.ai).
 - About 30 minutes for the installation and the interview
 
 That's it. No programming knowledge required.
@@ -64,7 +64,7 @@ Claude will read the project files, understand what this starter kit is, and sta
 
 ## If Something Goes Wrong
 
-- **Claude Code asks for a login or API key:** You need an Anthropic account. Sign up at [console.anthropic.com](https://console.anthropic.com) and follow the setup instructions.
+- **Claude Code asks for a login or API key:** You need a Claude account with an active paid plan. Sign up at [claude.ai](https://claude.ai), subscribe to Claude Pro (or higher), then log in from Claude Code using that account.
 - **You can't find the Claude Code panel in VS Code:** Make sure you installed the Claude Code extension (step 1). You might need to restart VS Code.
 - **Claude doesn't seem to know about the starter kit:** Make sure you opened the `ai-agent-onboarding` folder itself, not a parent folder. Claude Code reads the files in whatever folder you open.
 - **Something else:** The [Claude Code documentation](https://docs.anthropic.com/en/docs/claude-code/overview) has troubleshooting guides, or you can reach out to Miha (links at the bottom of the README).
